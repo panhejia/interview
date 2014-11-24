@@ -8,5 +8,5 @@ Eg : 12 can be written as 1*12, 2*6, 3*4, 2*2*4.
 
 Note:
 
-#. 2*6 and 6*2 are considered as duplicates and should be removed.
-#. 1 can only appear with the original number. Thus 1*2*6 is not needed.
++. 2*6 and 6*2 are considered as duplicates and should be removed.
++. 1 can only appear with the original number. Thus 1*2*6 is not needed.
