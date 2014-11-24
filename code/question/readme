@@ -2,4 +2,11 @@
 
 score ＝ 所有出发比自己晚但是到达比自己早的racer数量之和，（所有的出发时间 和到达时间没有重复的）要求时间复杂度o(nlgn).
 
+2. Print factor: Write all the possible numbers which multiply to given number. 
 
+Eg : 12 can be written as 1*12, 2*6, 3*4, 2*2*4. 
+
+Note:
+
+#. 2*6 and 6*2 are considered as duplicates and should be removed.
+#. 1 can only appear with the original number. Thus 1*2*6 is not needed.
